@@ -46,5 +46,4 @@ body {
 }
 .btn:hover {
     background: linear-gradient( 90deg, rgb(15, 54, 139), rgb(131, 31, 156));
-    transition: ease .20s;
 }
