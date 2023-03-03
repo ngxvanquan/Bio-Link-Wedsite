@@ -1,5 +1,5 @@
 body {
-    background-image: url(/assets/img/backgrounds.jpg);
+    background-image: url(./img/backgrounds.jpg);
     background-position: center; 
     background-repeat: no-repeat;
     background-size: cover;
@@ -22,7 +22,7 @@ body {
     color: #E1D7C6;
 }
 #box {
-    background-image: url(/assets/img/boxbackground.jpg);
+    background-image: url(./img/boxbackground.jpg);
     background-position: center; 
     background-repeat: no-repeat;
     background-size: cover;
