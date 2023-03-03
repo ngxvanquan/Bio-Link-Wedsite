@@ -6,8 +6,7 @@ body {
     align-items: center;
     text-align: center;
     justify-content: center;
-    margin: 0 auto;
-
+    font-family: 'Lobster', cursive;
 }
 #avatar {
     height: 250px;
@@ -16,6 +15,7 @@ body {
 }
 #name {
     font-size: 50px;
+    color: rgb(179, 182, 150);
 }
 #box {
     margin-top: 30px;
@@ -29,7 +29,7 @@ body {
 .btn {
     display: inline-block;
     margin-top: 30px;
-    padding: 10px 90px;
+    padding: 10px 110px;
     border-radius: 10px;
     background-color: rgb(16, 121, 153);
     text-decoration: none;
