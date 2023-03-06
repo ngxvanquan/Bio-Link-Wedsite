@@ -34,7 +34,7 @@ body {
     margin-bottom: 130px;
     display: inline-block;
     margin-left: 68 0px;
-    height: 590px;
+    height: 620px;
     width: 350px;
     border-radius: 15px;
 }
@@ -44,13 +44,13 @@ body {
     height: 20px;
     width: 100px;
     padding: 10px 80px;
+    border: 2px solid rgba(0, 0, 0, 0.829);
     border-radius: 10px;
-    background-color: rgba(0, 0, 0, 0.829);
     color: #E1D7C6;
     text-decoration: none;
 }
 .btn:hover {
-    background: -webkit-gradient( linear, left top, right top, from(rgb(15, 54, 139)), to(rgb(131, 31, 156)));
-    background: -o-linear-gradient( left, rgb(15, 54, 139), rgb(131, 31, 156));
-    background: linear-gradient( 90deg, rgb(15, 54, 139), rgb(131, 31, 156));
+    background: -webkit-gradient( linear, left top, right top, from(rgb(211, 104, 58)), to(rgb(115, 50, 70)));
+    background: -o-linear-gradient( left, rgb(211, 104, 58), rgb(115, 50, 70));
+    background: linear-gradient( 90deg, rgb(211, 104, 58), rgb(115, 50, 70));
 }
